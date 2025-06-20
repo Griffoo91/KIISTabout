@@ -61,8 +61,7 @@ const App = () => {
 
           <div className="grid md:grid-cols-2 gap-10">
             <InfoCard title="What We Do">
-              We offer robust bulk SMS tools with high delivery rates, real-time
-              tracking, and customizable campaigns to help your business grow.
+              We are dedicated to inspire and help learners develop intellect and character, desirable skills, knowledge and attitudes responsive to the challenges of a dynamic society
             </InfoCard>
 
             <InfoCard title="Why Choose Us?">
@@ -87,11 +86,11 @@ const App = () => {
         <footer className="bg-gray-900 text-white py-8 mt-20">
           <div className="max-w-6xl mx-auto px-4 flex flex-col md:flex-row justify-between items-center text-sm">
             <div className="mb-4 md:mb-0 text-center md:text-left">
-              <p>&copy; {new Date().getFullYear()} Slytex Softwares. All rights reserved.</p>
+              <p>&copy; {new Date().getFullYear()} KIIST. All rights reserved.</p>
               <p>This website is maintained by <span className="text-indigo-400 font-semibold">Slytex Softwares</span>.</p>
             </div>
             <div className="text-center md:text-right space-y-1">
-              <p>Contact: info@slytexsoftwares.com</p>
+              <p>Contact: info@kiistcollege.co.ke</p>
               <p>Phone: +254 712 345 678</p>
             </div>
           </div>
